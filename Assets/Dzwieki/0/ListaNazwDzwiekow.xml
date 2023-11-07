@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ListaNazwDzwiekowXML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <nazwydzwiekow>
+    <Utwor>
+      <autor>Uno</autor>
+      <tytul>Uno</tytul>
+    </Utwor>
+    <Utwor>
+      <autor>Dos</autor>
+      <tytul>Dos</tytul>
+    </Utwor>
+    <Utwor>
+      <autor>Tres</autor>
+      <tytul>Tres</tytul>
+    </Utwor>
+    <Utwor>
+      <autor>Quatro</autor>
+      <tytul>Quatro</tytul>
+    </Utwor>
+    <Utwor>
+      <autor>Sinto</autor>
+      <tytul>Sinto</tytul>
+    </Utwor>
+  </nazwydzwiekow>
+</ListaNazwDzwiekowXML>

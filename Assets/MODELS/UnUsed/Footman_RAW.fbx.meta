@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 6b59947dee23b9f4fb13894c10e3b3c1
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -4411626299751636685
+    second: Footman Nodes|#UNANIMATED
+  - first:
+      74: -5219052229808006348
+    second: Footman Nodes|#UNANIMATED Footman
+  - first:
+      74: 3784230726712555022
+    second: Footman Nodes|#UNANIMATED Footman.001
+  - first:
+      74: 7332667503480847658
+    second: Footman Nodes|#UNANIMATED Footman.002
+  - first:
+      74: 6929536782870656422
+    second: Footman Nodes|#UNANIMATED Footman.003
+  - first:
+      74: 8976005636968903056
+    second: Footman Nodes|#UNANIMATED Footman.004
+  - first:
+      74: -3433474878279736962
+    second: Footman Nodes|Attack - 1
+  - first:
+      74: -200324099897217013
+    second: Footman Nodes|Attack - 1 Footman
+  - first:
+      74: 6895837230865007561
+    second: Footman Nodes|Attack - 1 Footman.001
+  - first:
+      74: 3403266930070685589
+    second: Footman Nodes|Attack - 1 Footman.002
+  - first:
+      74: -6812630845005269838
+    second: Footman Nodes|Attack - 1 Footman.003
+  - first:
+      74: 8590737785591034638
+    second: Footman Nodes|Attack - 1 Footman.004
+  - first:
+      74: -2263454768200148132
+    second: Footman Nodes|Attack - 2
+  - first:
+      74: 6555511439106057821
+    second: Footman Nodes|Attack - 2 Footman
+  - first:
+      74: 7598709310376622995
+    second: Footman Nodes|Attack - 2 Footman.001
+  - first:
+      74: 5356826634783622013
+    second: Footman Nodes|Attack - 2 Footman.002
+  - first:
+      74: 7765891674277179034
+    second: Footman Nodes|Attack - 2 Footman.003
+  - first:
+      74: 3542781297212911196
+    second: Footman Nodes|Attack - 2 Footman.004
+  - first:
+      74: -9002721585863679237
+    second: Footman Nodes|Attack Defend
+  - first:
+      74: -942598845923014176
+    second: Footman Nodes|Attack Defend Footman
+  - first:
+      74: 5817451215629578320
+    second: Footman Nodes|Attack Defend Footman.001
+  - first:
+      74: 7421279507874503714
+    second: Footman Nodes|Attack Defend Footman.002
+  - first:
+      74: 8459953791270045575
+    second: Footman Nodes|Attack Defend Footman.003
+  - first:
+      74: -3244480229674276141
+    second: Footman Nodes|Attack Defend Footman.004
+  - first:
+      74: -263770506389693800
+    second: Footman Nodes|Death
+  - first:
+      74: -7015910720020470478
+    second: Footman Nodes|Death Footman
+  - first:
+      74: 6848673064260053351
+    second: Footman Nodes|Death Footman.001
+  - first:
+      74: -6402919698754312525
+    second: Footman Nodes|Death Footman.002
+  - first:
+      74: 3241605222599920695
+    second: Footman Nodes|Death Footman.003
+  - first:
+      74: -4631424646723926105
+    second: Footman Nodes|Death Footman.004
+  - first:
+      74: 5680845599699644509
+    second: Footman Nodes|Decay Bone
+  - first:
+      74: 4934728082501298821
+    second: Footman Nodes|Decay Bone Footman
+  - first:
+      74: -2294166724033249610
+    second: Footman Nodes|Decay Bone Footman.001
+  - first:
+      74: 305025520376017778
+    second: Footman Nodes|Decay Bone Footman.002
+  - first:
+      74: -8563145751158992519
+    second: Footman Nodes|Decay Bone Footman.003
+  - first:
+      74: -346735041935988018
+    second: Footman Nodes|Decay Bone Footman.004
+  - first:
+      74: -2055392171988974435
+    second: Footman Nodes|Decay Flesh
+  - first:
+      74: 4813427886779422034
+    second: Footman Nodes|Decay Flesh Footman
+  - first:
+      74: -6354906070231109532
+    second: Footman Nodes|Decay Flesh Footman.001
+  - first:
+      74: 9077304331491124459
+    second: Footman Nodes|Decay Flesh Footman.002
+  - first:
+      74: -3859065311956018620
+    second: Footman Nodes|Decay Flesh Footman.003
+  - first:
+      74: 6360433911762470076
+    second: Footman Nodes|Decay Flesh Footman.004
+  - first:
+      74: 513560238190714704
+    second: Footman Nodes|Stand - 1
+  - first:
+      74: -2645325717241788764
+    second: Footman Nodes|Stand - 1 Footman
+  - first:
+      74: -5067784903706530662
+    second: Footman Nodes|Stand - 1 Footman.001
+  - first:
+      74: 199417421975958591
+    second: Footman Nodes|Stand - 1 Footman.002
+  - first:
+      74: -6612358755723726506
+    second: Footman Nodes|Stand - 1 Footman.003
+  - first:
+      74: 7062578908583702470
+    second: Footman Nodes|Stand - 1 Footman.004
+  - first:
+      74: -8022335299221697625
+    second: Footman Nodes|Stand - 2
+  - first:
+      74: -825561308739170119
+    second: Footman Nodes|Stand - 2 Footman
+  - first:
+      74: 3259213949730002430
+    second: Footman Nodes|Stand - 2 Footman.001
+  - first:
+      74: 25982240387891917
+    second: Footman Nodes|Stand - 2 Footman.002
+  - first:
+      74: -1152594464570795900
+    second: Footman Nodes|Stand - 2 Footman.003
+  - first:
+      74: -6959755460381605723
+    second: Footman Nodes|Stand - 2 Footman.004
+  - first:
+      74: 1548183260927600837
+    second: Footman Nodes|Stand - 4
+  - first:
+      74: -8514008076968648763
+    second: Footman Nodes|Stand - 4 Footman
+  - first:
+      74: -8790087717314114152
+    second: Footman Nodes|Stand - 4 Footman.001
+  - first:
+      74: -7748033024904032290
+    second: Footman Nodes|Stand - 4 Footman.002
+  - first:
+      74: -8187903371163736319
+    second: Footman Nodes|Stand - 4 Footman.003
+  - first:
+      74: 449798623853827802
+    second: Footman Nodes|Stand - 4 Footman.004
+  - first:
+      74: 5736861622919341178
+    second: Footman Nodes|Stand Defend
+  - first:
+      74: 2675825922896694764
+    second: Footman Nodes|Stand Defend Footman
+  - first:
+      74: -9186946377399115490
+    second: Footman Nodes|Stand Defend Footman.001
+  - first:
+      74: 8542714841242273824
+    second: Footman Nodes|Stand Defend Footman.002
+  - first:
+      74: -4249181208518044606
+    second: Footman Nodes|Stand Defend Footman.003
+  - first:
+      74: 664628394944246423
+    second: Footman Nodes|Stand Defend Footman.004
+  - first:
+      74: 884030476534986857
+    second: Footman Nodes|Stand Victory
+  - first:
+      74: 7193083812747913187
+    second: Footman Nodes|Stand Victory Footman
+  - first:
+      74: 3629498461948548720
+    second: Footman Nodes|Stand Victory Footman.001
+  - first:
+      74: 427193548042231754
+    second: Footman Nodes|Stand Victory Footman.002
+  - first:
+      74: -8896629311544076443
+    second: Footman Nodes|Stand Victory Footman.003
+  - first:
+      74: -3226743967419078397
+    second: Footman Nodes|Stand Victory Footman.004
+  - first:
+      74: -5906191247912893371
+    second: Footman Nodes|Walk
+  - first:
+      74: -463865028451345361
+    second: Footman Nodes|Walk Defend
+  - first:
+      74: 7017676139287458371
+    second: Footman Nodes|Walk Defend Footman
+  - first:
+      74: 883260686081908787
+    second: Footman Nodes|Walk Defend Footman.001
+  - first:
+      74: 8796104113209921737
+    second: Footman Nodes|Walk Defend Footman.002
+  - first:
+      74: 4803503836807866154
+    second: Footman Nodes|Walk Defend Footman.003
+  - first:
+      74: 3444667961947742218
+    second: Footman Nodes|Walk Defend Footman.004
+  - first:
+      74: 7807551533108886407
+    second: Footman Nodes|Walk Footman
+  - first:
+      74: 4431194742148161602
+    second: Footman Nodes|Walk Footman.001
+  - first:
+      74: -1258978784427328537
+    second: Footman Nodes|Walk Footman.002
+  - first:
+      74: 8615822604710838263
+    second: Footman Nodes|Walk Footman.003
+  - first:
+      74: -4819124322858793830
+    second: Footman Nodes|Walk Footman.004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

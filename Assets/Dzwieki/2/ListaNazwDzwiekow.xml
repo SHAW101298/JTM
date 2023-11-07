@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ListaNazwDzwiekowXML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <nazwydzwiekow>
+    <Utwor>
+      <autor>One</autor>
+      <tytul>One</tytul>
+    </Utwor>
+    <Utwor>
+      <autor>Two</autor>
+      <tytul>Two</tytul>
+    </Utwor>
+    <Utwor>
+      <autor>Three</autor>
+      <tytul>Three</tytul>
+    </Utwor>
+    <Utwor>
+      <autor>Four</autor>
+      <tytul>Four</tytul>
+    </Utwor>
+    <Utwor>
+      <autor>Five</autor>
+      <tytul>Five</tytul>
+    </Utwor>
+	<Utwor>
+      <autor>Six</autor>
+      <tytul>Six</tytul>
+    </Utwor>
+  </nazwydzwiekow>
+</ListaNazwDzwiekowXML>
